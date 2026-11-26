@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://mjdescy.micro.blog/2026/11/26/today-i-used-claude-to.html",
+				
+				"content_html": "<p>Today I used Claude to one-shot a Simplenote app for Linux. I named it <a href=\"https://github.com/mjdescy/simplenotorious/\">Simplenotorious</a>. It is written in Rust and is a native GTK/Adwaita app rather than an Electron app. Consequently, compared to the official Simplenote app, it requires less RAM and far less disk space.</p>\n",
+				"content_text": "Today I used Claude to one-shot a Simplenote app for Linux. I named it [Simplenotorious](https://github.com/mjdescy/simplenotorious/). It is written in Rust and is a native GTK/Adwaita app rather than an Electron app. Consequently, compared to the official Simplenote app, it requires less RAM and far less disk space.\n",
+				"date_published": "2026-11-26T00:26:03-05:00",
+				"url": "https://blog.mjdescy.me/2026/11/26/today-i-used-claude-to.html"
+			},
+			{
+				"id": "http://mjdescy.micro.blog/2026/11/24/lately-i-have-been-enjoying.html",
+				
+				"content_html": "<p>Lately I have been enjoying the following apps on my Linux laptop:</p>\n<ol>\n<li><a href=\"https://herdr.dev/\">Herdr</a> - a fantastic terminal multiplexer based on libghostty</li>\n<li><a href=\"https://zed.dev/\">Zed</a> - a highly performant text editor with a great vi mode</li>\n<li><a href=\"https://hylki.hyprlab.co/\">Hylki</a> - a stylish email client with a unified inbox</li>\n<li><a href=\"https://useplanify.com/\">Planify</a> - a to-do list that can sync via CalDav</li>\n<li><a href=\"https://simplenote.com/\">Simplenote</a> - a note-taking app that syncs with a website</li>\n</ol>\n",
+				"content_text": "Lately I have been enjoying the following apps on my Linux laptop:\n\n1. [Herdr](https://herdr.dev/) - a fantastic terminal multiplexer based on libghostty\n1. [Zed](https://zed.dev/) - a highly performant text editor with a great vi mode\n1. [Hylki](https://hylki.hyprlab.co/) - a stylish email client with a unified inbox\n1. [Planify](https://useplanify.com/) - a to-do list that can sync via CalDav\n1. [Simplenote](https://simplenote.com/) - a note-taking app that syncs with a website\n",
+				"date_published": "2026-11-24T00:12:29-05:00",
+				"url": "https://blog.mjdescy.me/2026/11/24/lately-i-have-been-enjoying.html"
+			},
+			{
 				"id": "http://mjdescy.micro.blog/2026/11/23/i-finally-watched-weapons-tonight.html",
 				
 				"content_html": "<p>I finally watched <em><a href=\"https://en.wikipedia.org/wiki/Weapons_(2025_film)\">Weapons</a></em> tonight.  It was not nearly as scary as I had thought it would be, but it was a compelling watch all the way through and has a fantastic cast.</p>\n",
